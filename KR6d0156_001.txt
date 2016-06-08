@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:05.558541
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:48
 #+TITLE: 法華經安樂行義
 #+PROPERTY: CBETA_ID T46n1926
 #+PROPERTY: ID KR6d0156
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1926
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0156_T_000-0697c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0156_T_001-0697c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1926¶
-
- 法華經安樂行義¶
+No. 1926¶
+法華經安樂行義¶
 ¶
 陳南嶽思大禪師說¶
 
@@ -106,9 +105,9 @@ No.1926¶
 　云何非非一
 　數與及非數¶
 　皆不可得故
-　是名眾生義
+　是名眾生義」
 #+END_VERSE
-」¶
+¶
 
 問曰。云何名為妙法蓮華經。云何復名一乘¶
 義。云何復名如來藏。云何名為摩訶衍。云何¶
